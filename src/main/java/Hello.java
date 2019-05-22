@@ -8,5 +8,6 @@ public class Hello {
 
     public static void dsFdsa() {
         System.out.print("hello,world");
+        System.out.print("hello,world");
     }
 }
