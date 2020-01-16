@@ -1,4 +1,4 @@
 # yl
 Jenkins配合GitHub持续集成
 
-[![Chat on Gitter][1]][2]
+<div class="github-widget" data-repo="hustcc/GitHub-Repo-Widget.js"></div>
