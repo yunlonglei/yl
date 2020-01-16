@@ -1,4 +1,5 @@
-# yl
-Jenkins配合GitHub持续集成
+# yl  
+[![](https://travis-ci.org/Alamofire/Alamofire.svg?branch=master)](https://travis-ci.org/Alamofire/Alamofire)  
+Jenkins配合GitHub持续集成  
 
-<div class="github-widget" data-repo="hustcc/GitHub-Repo-Widget.js"></div>
+
